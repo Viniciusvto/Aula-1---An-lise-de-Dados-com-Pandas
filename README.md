@@ -1,2 +1,2 @@
-# Aula-1---An-lise-de-Dados-com-Pandas
-First class on pandas
+# Aula-1-Anlise-de-Dados-com-Pandas
+Importando os dados e iniciando o tratamento 
