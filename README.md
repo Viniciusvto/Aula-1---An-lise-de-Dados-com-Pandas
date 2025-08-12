@@ -36,3 +36,6 @@ Carregamento de dados de um arquivo disponível no GitHub.
 Criação de filtros dinâmicos na barra lateral para permitir a exploração dos dados em tempo real.
 Adição de métricas principais, como salário médio e máximo, e a exibição de gráficos interativos.
 Criação de Gráficos: Utilizamos o Plotly para criar gráficos que visualizam os dados de forma interativa, como gráficos de barras e histogramas.
+
+
+https://share.streamlit.io/new
